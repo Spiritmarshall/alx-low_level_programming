@@ -3,9 +3,7 @@ int main(void)
 /**
  * main - Entry point
  *
- * Description: 'description for main'
- *
- * Return: Always 0 (Success)                                                                   
+ * Return: Always 0 (Success)
  */
 {
 	int a;
