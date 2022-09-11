@@ -1,5 +1,14 @@
 #include <stdio.h>
 int main(void)
+/**
+ *
+ *  * main - Entry point
+ *
+ *   *
+ *
+ *    * Return: Always 0 (Success)
+ *
+ *     */
 {
 	int a;
 	long int b;
