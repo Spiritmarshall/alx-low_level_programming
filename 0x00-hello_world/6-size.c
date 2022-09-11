@@ -1,14 +1,12 @@
 #include <stdio.h>
 int main(void)
 /**
+ * main - Entry point
  *
- *  * main - Entry point
+ * Description: 'description for main'
  *
- *   *
- *
- *    * Return: Always 0 (Success)
- *
- *     */
+ * Return: Always 0 (Success)                                                                   
+ */
 {
 	int a;
 	long int b;
