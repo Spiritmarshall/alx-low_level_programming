@@ -26,4 +26,4 @@ int _atoi(char *s)
 		j++;
 	}
 	return (n);
-
+}
