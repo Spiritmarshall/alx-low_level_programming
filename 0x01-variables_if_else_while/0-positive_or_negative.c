@@ -6,12 +6,12 @@
  * main - generate a random number everytime
  *
  * execute it and print
- * 
+ *
  * Return: 0 (successful)
  **/
 
-int main(void){
-
+int main(void)
+{
 	int n;
 
 	srand(time(0));
